@@ -55,7 +55,7 @@ $ python diagonal_matrix.py
 ### Sample Input/Output
 
 #### Sample Input 1:
-3 3
+`3 3`
 
 #### Sample Output 1:
 ```
@@ -64,7 +64,7 @@ $ python diagonal_matrix.py
  [ 0.  0.  1.]]
 ```
 #### Sample Input 2:
-4 5
+`4 5`
 
 #### Sample Output 2:
 ```
@@ -73,7 +73,7 @@ $ python diagonal_matrix.py
  [ 0.  1.  0.  0.  0.]
  [ 0.  0.  1.  0.  0.]
  [ 0.  0.  0.  1.  0.]]
- 
+
 ```
 
 ### Installation
