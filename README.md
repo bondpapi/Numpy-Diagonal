@@ -58,21 +58,23 @@ $ python diagonal_matrix.py
 3 3
 
 #### Sample Output 1:
-
+```
 [[ 1.  0.  0.]
  [ 0.  1.  0.]
  [ 0.  0.  1.]]
-
+```
 #### Sample Input 2:
 4 5
 
 #### Sample Output 2:
+```
 
 [[ 1.  0.  0.  0.  0.]
  [ 0.  1.  0.  0.  0.]
  [ 0.  0.  1.  0.  0.]
  [ 0.  0.  0.  1.  0.]]
-
+ 
+```
 
 ### Installation
 
